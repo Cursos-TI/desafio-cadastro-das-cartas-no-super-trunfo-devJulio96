@@ -7,7 +7,7 @@
 //Teste larissa
 
 int main() {
-        char estado01;
+    char estado01;
     char codigo01[3];
     char cidade01[20];
     int populacao01;
